@@ -1,4 +1,4 @@
-# CS167-Fall24-Notebook-2
+# CS167-SP25-Notebook-2
 # Notebook #2: K Nearest Neighbors and Normalization
 
 ## The Data
@@ -34,7 +34,7 @@ Notebook #2 consists of the following exercises :muscle:.
     - Compare your results. 
     - Use a markup cell to describe and explain the differences in a few sentences.
 
-To submit your work, use a Markup cell to put your name at the top of the file. Submit this assignment through the CodePost link (find it on Blackboard).
+To submit your work, use a Markup cell to put your name at the top of the file. Submit this assignment on Blackboard.
 
 
 ## :white_check_mark: Grading: 
